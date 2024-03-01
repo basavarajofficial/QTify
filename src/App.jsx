@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h3>Hello</h3>
+      <h3>Hello QTify</h3>
     </>
   )
 }
